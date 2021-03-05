@@ -1,4 +1,17 @@
+I like chocolate.
+I like animes.
+I like v_flower.
+I like Hatsume_Miku.
+I like Rin.
+I like Len.
+I like Yukari.
+I like Texas.
+I like Lappland.
+I like Aak.
+<<<<<<< HEAD
+I like Keina Suda very much.
+=======
+I like April.
+I like October.
+>>>>>>> Congyue
 
-I like talk radio
-I like snow
-I like biscuits
