@@ -1,0 +1,5 @@
+The connection is poor, which keeps driving me crazy.
+I cannot help complaining that this consumed a lot of time and energy.
+I have learnt some basic knowledge of git.
+I encountered the question that when pushing the change, it tells me "git error: RPC failed； result=35, HTTP code = 0 fatal: The remote end hung up unexpectedly" I searched on the Internet, and tried to write "git config --global http.postBuffer 20M" but still failed.
+It is said that this is because the file is too large, but I do not know how to deal with it exactly. I tried that many times and none of them success.
