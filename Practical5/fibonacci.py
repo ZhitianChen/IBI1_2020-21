@@ -1,7 +1,17 @@
 a=1
 b=1
-i=1
+c=a+b #three numbers is a group
 print a
-for i in range (12):
-	a,b=b,a+b
-	print a
+print b
+print c
+g=1 #count the round
+for g in range(1,4):
+        a=b+c
+	b=a+c
+	c=a+b #to add up
+        g=g+1 #the round number increases
+        print a
+        print b
+        print c
+d=b+c
+print d #the thirteenth number
