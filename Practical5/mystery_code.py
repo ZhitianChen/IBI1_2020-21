@@ -1,5 +1,5 @@
 # What does this piece of code do?
-# Answer:To find a random number that is between 49 and 100. 
+# Answer:To find a random number that is between 1 and 50. 
 
 # Import libraries
 # randint allows drawing a random number, 
