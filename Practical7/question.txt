@@ -1,0 +1,9 @@
+The question:
+How have new cases and total cases developed over time in Spain?
+
+Line number:
+72-89
+
+Discussion:
+Until around 2021-03-06, it seems that in Spain, the new cases and new deaths were almost the same, which were both near 0.
+However, after 2021-03-06, new cases in Spain growed and reached a peak on around 2020-03-27. At the same time, total cases in Spain increases fiercely, which looks like a 'J', but the growing speed slowed down a little after 2020-03-27.
