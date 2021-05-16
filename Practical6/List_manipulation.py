@@ -32,11 +32,18 @@ plt.title('Average exon lengths')  # to give a title of the plot
 
 plt.subplot(gs[3, 0])
 plt.axis('off')
-rowLabels = ['Average exon lengths']
+Title = ['Average exon lengths']
 cellText = [F]
-table = plt.table(cellText=cellText, rowLabels=rowLabels, loc='center', cellLoc='center')
+table = plt.table(cellText=cellText, loc='center', cellLoc='center')
 table.auto_set_font_size(False)
 table.set_fontsize(10)
 table.scale(1, 2)
+
+plt.text(x=0.5,
+         y=0.7,
+         s='Sorted values for the average exon length across all 10 genes',
+         fontsize=12,
+         horizontalalignment="center"
+         )
 
 plt.show()  # show the plot
