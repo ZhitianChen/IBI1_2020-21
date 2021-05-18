@@ -1,1 +1,13 @@
+Identical amino acids percentage:
+Mouse-Human: 89.64%
+Mouse-Random sequence: 5.86%
+Human-Random sequence: 5.41%
 
+Alignment score:
+Mouse-Human: 1091
+Mouse-Random sequence: -250
+Human-Random sequence: -250
+
+Interpretation:
+The identical amino acids percentage and the alignment score between human and mouse are relatively high, which indicates that it is reasonable to use mouse for experiments.
+This also shows the relatively close relationship between mouse and human in the protein, which can be another evidence for the theory of evolution.
