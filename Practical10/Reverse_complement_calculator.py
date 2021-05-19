@@ -18,4 +18,4 @@ def dna(seq):  # define a new function
     return rc_DNA
 
 seq = 'ATTGCGGGTACGTTTCTCGGGGT'  # the example for input
-dna(seq)
+dna(seq)  # to call the function with the input of 'seq'
