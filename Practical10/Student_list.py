@@ -1,3 +1,4 @@
+# This is a code that is similar to the previous one. So I just changed some name.
 class student(object):  # to define a new class
     def __init__(self, fn, ln, major):
         self.fn = fn
